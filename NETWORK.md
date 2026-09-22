@@ -1,16 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# zion-ai-code-reviewer — Zion App Network
 
-**zion-ai-code-reviewer** is part of the Zion Tech Group app network (630+ apps).
+Zion AI Code Reviewer — automated PR review and security linting.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
+- Live app: https://ziontechgroup.com/zion-ai-code-reviewer/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [zion-ai-code-assistant](https://github.com/Zion-support/zion-ai-code-assistant) — AI code assistant
-- [zion-ai-pr-review-swarm](https://github.com/Zion-support/zion-ai-pr-review-swarm) — multi-agent PR review
-- [ai-code-formatter](https://github.com/Zion-support/ai-code-formatter) — formatting & linting
-- [zion-ai-code-migrator](https://github.com/Zion-support/zion-ai-code-migrator) — legacy modernization
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+## Related apps (Developer Tools)
+- [zion-ai-pr-review-swarm](https://ziontechgroup.com/zion-ai-pr-review-swarm) — multi-agent parallel code review
+- [zion-ai-code-migrator](https://ziontechgroup.com/zion-ai-code-migrator) — legacy code modernization
+- [zion-ai-api-guardian](https://ziontechgroup.com/zion-ai-api-guardian) — breaking-change detection
+- [zion-ai-docs-doctor](https://ziontechgroup.com/zion-ai-docs-doctor) — stale docs detection
+- [mock-api-generator](https://ziontechgroup.com/mock-api-generator/) — mock payloads from JSON schema
+- [accessibility-checker](https://ziontechgroup.com/accessibility-checker/) — WCAG 2.2 issue finder
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
