@@ -1,10 +1,17 @@
-# Zion AI Code Reviewer
+# Zion AI Code Reviewer — Zion App Network
 
-Automated PR review and security linting.
+Zion AI Code Reviewer — automated PR review and security linting. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-pr-review-swarm](https://github.com/Zion-support/zion-ai-pr-review-swarm) · [zion-ai-code-assistant](https://github.com/Zion-support/zion-ai-code-assistant) · [zion-ai-code-migrator](https://github.com/Zion-support/zion-ai-code-migrator) · [ai-code-formatter](https://github.com/Zion-support/ai-code-formatter) · [tech-debt-radar](https://github.com/Zion-support/tech-debt-radar)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-code-reviewer/](https://ziontechgroup.com/zion-ai-code-reviewer/)
+- 🏠 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI PR Review Swarm](https://github.com/Zion-support/zion-ai-pr-review-swarm) — multi-agent PR review
+- [Zion AI Code Assistant](https://github.com/Zion-support/zion-ai-code-assistant) — AI pair-programming
+- [Zion AI Code Migrator](https://github.com/Zion-support/zion-ai-code-migrator) — legacy code modernization
+- [K8s YAML Linter](https://github.com/Zion-support/k8s-yaml-linter) — Kubernetes misconfiguration hints
+- [Zion AI Secrets Sentinel](https://github.com/Zion-support/zion-ai-secrets-sentinel) — continuous secret scanning
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
